@@ -1,9 +1,9 @@
-h1 {
+div#name {
 	color:red;
 	text-align: center;
 }
 
-p {
+div#details {
 	color:blue;
 	text-align: center;
 }
